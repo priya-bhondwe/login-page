@@ -42,8 +42,8 @@ header {
 .balance {
   display: flex;
   flex-direction: column;
-  justify-content: center; /* Vertically center */
-  align-items: center; /* Horizontally center */
+  justify-content: center;
+  align-items: center;
   background-color: #fff;
   color: #000;
   border-radius: 50%;
@@ -164,7 +164,6 @@ table {
 th,
 td {
   padding: 10px;
-  /* border: 1px solid #ccc; */
   text-align: center;
 }
 
